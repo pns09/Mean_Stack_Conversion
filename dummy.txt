@@ -1,0 +1,28 @@
+[ {
+    "sender": "rahul",
+    "message": "this is rahul's message",
+    "receiver":"sri",
+    "important": "yes"
+
+ },
+  {
+    "sender": "chinnu",
+    "message": "this is chinnu's message",
+    "receiver":"sri",
+    "important": "yes"
+
+ },
+ {
+    "sender": "janu",
+    "message": "this is janu's message",
+    "receiver":"sri",
+    "important": "yes"
+
+ },{
+    "sender": "varun",
+    "message": "this is varun's message",
+    "receiver":"sri",
+    "important": "yes"
+
+ }
+ ]
